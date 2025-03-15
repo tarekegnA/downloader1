@@ -1,0 +1,1721 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Media Player Classic – Downloading</title>
+
+    <meta name="robots" content="NOINDEX,NOFOLLOW"/>
+
+    
+
+
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+
+
+
+
+<link rel="preconnect" href="https://static.download.it/" crossorigin>
+<link rel="dns-prefetch" href="https://static.download.it/">
+
+
+
+
+<link rel="preload" href="//static.download.it/dit/fonts/35117E_0_0.woff" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//static.download.it/fontello/font/dit-logos.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Dosis:400,600&display=swap" as="font" crossorigin>
+
+<style type="text/css">@font-face {font-family:Dosis;font-style:normal;font-weight:400;src:url(/cf-fonts/s/dosis/5.0.18/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Dosis;font-style:normal;font-weight:400;src:url(/cf-fonts/s/dosis/5.0.18/latin-ext/400/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Dosis;font-style:normal;font-weight:400;src:url(/cf-fonts/s/dosis/5.0.18/vietnamese/400/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Dosis;font-style:normal;font-weight:600;src:url(/cf-fonts/s/dosis/5.0.18/latin/600/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Dosis;font-style:normal;font-weight:600;src:url(/cf-fonts/s/dosis/5.0.18/vietnamese/600/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Dosis;font-style:normal;font-weight:600;src:url(/cf-fonts/s/dosis/5.0.18/latin-ext/600/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+
+
+    
+    
+    
+
+
+
+
+
+<link  rel="stylesheet" href="//static.download.it/dit/css/bootstrap.min.css?v=2" crossorigin="anonymous">
+<link  rel="stylesheet" href="//static.download.it/dit/css/main.css?v=1741970458298s">
+
+<link media="print" onload="this.media='all'; this.onload=null;" rel="stylesheet" type="text/css" href="//static.download.it/dit/css/hover-min.css">
+<link media="print" onload="this.media='all'; this.onload=null;" rel="stylesheet" href="//static.download.it/fontello/css/dit-logos.css?v=1741970458298">
+
+<script defer src="//static.download.it/dit/js/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+<script defer src="//static.download.it/dit/js/popper.min.js" crossorigin="anonymous"></script>
+<script defer src="//static.download.it/dit/js/bootstrap.min.js" crossorigin="anonymous"></script>
+
+
+<script defer type="text/javascript" src="//static.download.it/dit/js/search-header.js?v=1741970458298"></script>
+<script type="text/javascript">
+	window.addEventListener('DOMContentLoaded', function() {
+		$.sheader(
+			'.swarpper',
+			'input',
+			'.glass-wrap',
+			'https://en.download.it/s/search_placehodler'
+		);
+
+		$(function () {
+			$('[data-toggle="popover"]').popover()
+		});
+	});
+</script>
+
+
+<script defer src="//static.download.it/js/lazysizes.min.js"></script>
+
+
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+	(function() {
+		var host = 'download.it';
+		var element = document.createElement('script');
+		var firstScript = document.getElementsByTagName('script')[0];
+		var url = 'https://cmp.inmobi.com'
+			.concat('/choice/', 'NckurUNbznaCm', '/', host, '/choice.js?tag_version=V3');
+		var uspTries = 0;
+		var uspTriesLimit = 3;
+		element.async = true;
+		element.type = 'text/javascript';
+		element.src = url;
+
+		firstScript.parentNode.insertBefore(element, firstScript);
+
+		function makeStub() {
+			var TCF_LOCATOR_NAME = '__tcfapiLocator';
+			var queue = [];
+			var win = window;
+			var cmpFrame;
+
+			function addFrame() {
+				var doc = win.document;
+				var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+				if (!otherCMP) {
+					if (doc.body) {
+						var iframe = doc.createElement('iframe');
+
+						iframe.style.cssText = 'display:none';
+						iframe.name = TCF_LOCATOR_NAME;
+						doc.body.appendChild(iframe);
+					} else {
+						setTimeout(addFrame, 5);
+					}
+				}
+				return !otherCMP;
+			}
+
+			function tcfAPIHandler() {
+				var gdprApplies;
+				var args = arguments;
+
+				if (!args.length) {
+					return queue;
+				} else if (args[0] === 'setGdprApplies') {
+					if (
+						args.length > 3 &&
+						args[2] === 2 &&
+						typeof args[3] === 'boolean'
+					) {
+						gdprApplies = args[3];
+						if (typeof args[2] === 'function') {
+							args[2]('set', true);
+						}
+					}
+				} else if (args[0] === 'ping') {
+					var retr = {
+						gdprApplies: gdprApplies,
+						cmpLoaded: false,
+						cmpStatus: 'stub'
+					};
+
+					if (typeof args[2] === 'function') {
+						args[2](retr);
+					}
+				} else {
+					if(args[0] === 'init' && typeof args[3] === 'object') {
+						args[3] = Object.assign(args[3], { tag_version: 'V3' });
+					}
+					queue.push(args);
+				}
+			}
+
+			function postMessageEventHandler(event) {
+				var msgIsString = typeof event.data === 'string';
+				var json = {};
+
+				try {
+					if (msgIsString) {
+						json = JSON.parse(event.data);
+					} else {
+						json = event.data;
+					}
+				} catch (ignore) {}
+
+				var payload = json.__tcfapiCall;
+
+				if (payload) {
+					window.__tcfapi(
+						payload.command,
+						payload.version,
+						function(retValue, success) {
+							var returnMsg = {
+								__tcfapiReturn: {
+									returnValue: retValue,
+									success: success,
+									callId: payload.callId
+								}
+							};
+							if (msgIsString) {
+								returnMsg = JSON.stringify(returnMsg);
+							}
+							if (event && event.source && event.source.postMessage) {
+								event.source.postMessage(returnMsg, '*');
+							}
+						},
+						payload.parameter
+					);
+				}
+			}
+
+			while (win) {
+				try {
+					if (win.frames[TCF_LOCATOR_NAME]) {
+						cmpFrame = win;
+						break;
+					}
+				} catch (ignore) {}
+
+				if (win === window.top) {
+					break;
+				}
+				win = win.parent;
+			}
+			if (!cmpFrame) {
+				addFrame();
+				win.__tcfapi = tcfAPIHandler;
+				win.addEventListener('message', postMessageEventHandler, false);
+			}
+		};
+
+		makeStub();
+
+		function makeGppStub() {
+			const CMP_ID = 10;
+			const SUPPORTED_APIS = [
+				'2:tcfeuv2',
+				'6:uspv1',
+				'7:usnatv1',
+				'8:usca',
+				'9:usvav1',
+				'10:uscov1',
+				'11:usutv1',
+				'12:usctv1'
+			];
+
+			window.__gpp_addFrame = function (n) {
+				if (!window.frames[n]) {
+					if (document.body) {
+						var i = document.createElement("iframe");
+						i.style.cssText = "display:none";
+						i.name = n;
+						document.body.appendChild(i);
+					} else {
+						window.setTimeout(window.__gpp_addFrame, 10, n);
+					}
+				}
+			};
+			window.__gpp_stub = function () {
+				var b = arguments;
+				__gpp.queue = __gpp.queue || [];
+				__gpp.events = __gpp.events || [];
+
+				if (!b.length || (b.length == 1 && b[0] == "queue")) {
+					return __gpp.queue;
+				}
+
+				if (b.length == 1 && b[0] == "events") {
+					return __gpp.events;
+				}
+
+				var cmd = b[0];
+				var clb = b.length > 1 ? b[1] : null;
+				var par = b.length > 2 ? b[2] : null;
+				if (cmd === "ping") {
+					clb(
+						{
+							gppVersion: "1.1", // must be âVersion.Subversionâ, current: â1.1â
+							cmpStatus: "stub", // possible values: stub, loading, loaded, error
+							cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+							signalStatus: "not ready", // possible values: not ready, ready
+							supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+							cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+							sectionList: [],
+							applicableSections: [-1],
+							gppString: "",
+							parsedSections: {},
+						},
+						true
+					);
+				} else if (cmd === "addEventListener") {
+					if (!("lastId" in __gpp)) {
+						__gpp.lastId = 0;
+					}
+					__gpp.lastId++;
+					var lnr = __gpp.lastId;
+					__gpp.events.push({
+						id: lnr,
+						callback: clb,
+						parameter: par,
+					});
+					clb(
+						{
+							eventName: "listenerRegistered",
+							listenerId: lnr, // Registered ID of the listener
+							data: true, // positive signal
+							pingData: {
+								gppVersion: "1.1", // must be âVersion.Subversionâ, current: â1.1â
+								cmpStatus: "stub", // possible values: stub, loading, loaded, error
+								cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+								signalStatus: "not ready", // possible values: not ready, ready
+								supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+								cmpId: CMP_ID, // list of supported APIs
+								sectionList: [],
+								applicableSections: [-1],
+								gppString: "",
+								parsedSections: {},
+							},
+						},
+						true
+					);
+				} else if (cmd === "removeEventListener") {
+					var success = false;
+					for (var i = 0; i < __gpp.events.length; i++) {
+						if (__gpp.events[i].id == par) {
+							__gpp.events.splice(i, 1);
+							success = true;
+							break;
+						}
+					}
+					clb(
+						{
+							eventName: "listenerRemoved",
+							listenerId: par, // Registered ID of the listener
+							data: success, // status info
+							pingData: {
+								gppVersion: "1.1", // must be âVersion.Subversionâ, current: â1.1â
+								cmpStatus: "stub", // possible values: stub, loading, loaded, error
+								cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+								signalStatus: "not ready", // possible values: not ready, ready
+								supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+								cmpId: CMP_ID, // CMP ID
+								sectionList: [],
+								applicableSections: [-1],
+								gppString: "",
+								parsedSections: {},
+							},
+						},
+						true
+					);
+				} else if (cmd === "hasSection") {
+					clb(false, true);
+				} else if (cmd === "getSection" || cmd === "getField") {
+					clb(null, true);
+				}
+				//queue all other commands
+				else {
+					__gpp.queue.push([].slice.apply(b));
+				}
+			};
+			window.__gpp_msghandler = function (event) {
+				var msgIsString = typeof event.data === "string";
+				try {
+					var json = msgIsString ? JSON.parse(event.data) : event.data;
+				} catch (e) {
+					var json = null;
+				}
+				if (typeof json === "object" && json !== null && "__gppCall" in json) {
+					var i = json.__gppCall;
+					window.__gpp(
+						i.command,
+						function (retValue, success) {
+							var returnMsg = {
+								__gppReturn: {
+									returnValue: retValue,
+									success: success,
+									callId: i.callId,
+								},
+							};
+							event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+						},
+						"parameter" in i ? i.parameter : null,
+						"version" in i ? i.version : "1.1"
+					);
+				}
+			};
+			if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+				window.__gpp = window.__gpp_stub;
+				window.addEventListener("message", window.__gpp_msghandler, false);
+				window.__gpp_addFrame("__gppLocator");
+			}
+		};
+
+		makeGppStub();
+
+		var uspStubFunction = function() {
+			var arg = arguments;
+			if (typeof window.__uspapi !== uspStubFunction) {
+				setTimeout(function() {
+					if (typeof window.__uspapi !== 'undefined') {
+						window.__uspapi.apply(window.__uspapi, arg);
+					}
+				}, 500);
+			}
+		};
+
+		var checkIfUspIsReady = function() {
+			uspTries++;
+			if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+				console.warn('USP is not accessible');
+			} else {
+				clearInterval(uspInterval);
+			}
+		};
+
+		if (typeof window.__uspapi === 'undefined') {
+			window.__uspapi = uspStubFunction;
+			var uspInterval = setInterval(checkIfUspIsReady, 6000);
+		}
+	})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="td-compliant" content="1">
+
+
+
+
+
+
+
+
+
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+<meta name="theme-color" content="#1a7dff" />
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Download.it",
+        "url": "https:https://en.download.it/windows",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://en.download.it/s/{search_placehodler}",
+            "query-input": "required name=search_placehodler"
+        }
+	}
+</script>
+
+
+
+
+
+
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Video software"
+                        
+                            ,"item": "https://en.download.it/windows/video-software"
+                        
+                    },
+                
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Media Player Classic"
+                        
+                            ,"item": "https://media-player-classic.en.download.it/"
+                        
+                    },
+                
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Download"
+                        
+                            ,"item": "https://media-player-classic.en.download.it/download"
+                        
+                    },
+                
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Downloading"
+                        
+                    }
+                
+                
+            ]
+        }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30374496-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+</script>
+
+
+
+    
+    <script src="//static.download.it/js/smart-device.js?v=1741970458298"></script>
+
+
+<script>
+	gtag('js', new Date());
+	gtag('config', 'UA-30374496-1');
+</script>
+
+
+
+    
+    
+    <script defer src="//static.download.it/js/dit-supplement.js?v=1741970458298"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<link rel="shortcut icon" href="https://static.download.it/gen/media-player-classic-favicon_i.ico" />
+
+
+    
+    <script defer src="//static.download.it/js/jquery.md5.js" type="text/javascript"></script>
+
+    
+
+    
+    
+
+
+
+
+
+
+<link rel="preload" href="//static.download.it/dit/raty/fonts/raty.woff" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="//static.download.it/dit/raty/jquery.raty.css?v=2"/>
+<script defer src="//static.download.it/dit/raty/jquery.raty.js" type="text/javascript"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+	(function($) {
+	  $('.vote').each(function() {
+		var thiz = $(this);
+
+		thiz.raty({
+		  number: 5,
+		  score : thiz.data('average') / 2,
+		  readOnly: true,
+		  half: true,
+		  hints: ["", "", "", "", ""],
+		  starType: 'i'
+		});
+	  });
+	})(jQuery);
+  });
+</script>
+
+    
+    <script defer type="text/javascript" src="https://cdn.ditdlm.com/js/ajget-download.js"></script>
+
+    
+        
+            <script type="text/javascript">
+                window.addEventListener('DOMContentLoaded', function () {
+                    (function ($) {
+                        $(document).ready(function () {
+                            $.ditGetDownload(
+                                {
+                                    platform: 'windows',
+                                    locale: 'en-US',
+									targetUrl: 'https://cdn.ditdlm.com/ajax/get-download',
+                                    triggerEachDone: true
+                                },
+								() => {}
+                            );
+                        });
+                    })(jQuery);
+                });
+            </script>
+        
+        
+    
+    
+
+
+
+
+
+
+
+
+    <script>
+			window.addEventListener('DOMContentLoaded', function () {
+				(function ($) {
+					$(document).ready(function () {
+						const urlContainerSelector = '#dit-fallback';
+						const
+							i357Show = true,
+							text1 = 'Having trouble with the download?<br/>Click here to download the file directly.',
+							text2 = 'Having trouble accessing the content?<br/>Click here to try again.',
+                            text3 = 'Having trouble with the download?<br/>Click here to try again.'
+						;
+						let isDlm = false, fallbackUrl = '', isDirectInternal = false;
+
+						function showFallbackUrl() {
+							const anchorEl = $(urlContainerSelector + ' a');
+
+							const anchorText = isDlm ? text1 : (isDirectInternal ? text3 : text2);
+							anchorEl.html(anchorText);
+
+							anchorEl.attr('href', fallbackUrl);
+							$('.pbar-loader, .pbar-label').hide();
+							$(urlContainerSelector).removeClass('d-none');
+						}
+
+						$('body').on('dlurl-loaded', function (e, data) {
+							if (!data.success || !data.data) return;
+
+							isDlm = data.data.isDlm;
+							isDirectInternal = data.data.isDirectInternal;
+							fallbackUrl = data.data.fallbackUrl;
+
+							if (i357Show) {
+								showFallbackUrl();
+								return;
+							}
+
+							if (!isDlm) return;
+
+							setTimeout(showFallbackUrl, 3000);
+						});
+
+						
+						$('a[data-altdl="true"]').each(function () {
+							const el = $(this);
+
+							if (el.attr('data-altdl').trim() === '') return;
+
+							fallbackUrl = el.attr('href');
+
+							showFallbackUrl();
+						});
+					});
+				})(jQuery)
+			});
+    </script>
+
+</head>
+<body class="prgp downloading imcatp ditwr">
+
+
+
+
+
+
+<header class="container-fluid">
+    <div class="container head-in-wrap">
+        <div class="row no-gutters">
+            <div class="col-6 col-lg-auto no-gutters">
+                <div class="row no-gutters">
+                    <div class="col-auto text-left" id="head-title">
+                        <p><a href="https://en.download.it">Download.it</a></p>
+                    </div>
+                    
+                    <div class="d-none d-lg-block ml-4 col-auto text-left head-subtitle">
+                        <p><a class="head-hover" href="https://en.download.it/windows">Apps</a></p>
+                    </div>
+                    
+                        <div class="d-none d-lg-block col-auto text-left head-subtitle">
+                            <p><a class="head-hover" href="https://en.download.it/windows/games">Games</a></p>
+                        </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+            <div class="col-6 col-lg">
+                <div class="row justify-content-end no-gutters ">
+                    
+                        <div class="search-misc col-8 d-none d-lg-block" id="head-search">
+                            <form class="swarpper">
+                                <div class="form-glass-wrap">
+                                    <input type="text" class="form-control" id="search_input" placeholder="Search Software">
+                                    <div class="glass-wrap" data-inputselector="#search_input">
+                                        
+                                        <img src="//static.download.it/dit/images/maglass-blue.svg" width="20" height="20" alt="Download.it search icon" />
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    
+                    <nav class="search-misc col-auto d-none d-lg-block" id="head-platform-lang">
+                        <div class="no-gutters h-100 row justify-content-around justify-content-md-end">
+                            <div class="dropdown col-auto" title="Windows" >
+                                <div class="text-right lp-selector-wrapper  ditclickable"
+                                     id="ddPlatformDesktop" data-toggle="dropdown">
+                                    <div class="platform-wrapper">
+                                        <i class="icon-windows"></i><span><i class="icon-down-open platform"></i></span>
+                                    </div>
+                                </div>
+                                
+                                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="ddPlatformDesktop">
+                                        
+                                            <a class="dropdown-item" href="https://en.download.it/android">Android</a>
+                                        
+                                            <a class="dropdown-item" href="https://en.download.it/mac">Mac</a>
+                                        
+                                    </div>
+                                
+                            </div>
+
+                            <div class="dropdown col-auto" title="English" >
+                                <div class=" ditclickable text-right lp-selector-wrapper"
+                                     id="ddLangDesktop" data-toggle="dropdown">
+                                    <div class="lang-wrapper">
+                                        <span class="content">EN</span><span><i class="icon-down-open" style="margin-right: 0;"></i></span>
+                                    </div>
+                                </div>
+                                
+                                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="ddLangDesktop">
+                                        
+                                            <a title="Italiano" class="dropdown-item" href="https://download.it">Italiano</a>
+                                        
+                                            <a title="Español" class="dropdown-item" href="https://es.download.it">Español</a>
+                                        
+                                            <a title="Français" class="dropdown-item" href="https://fr.download.it">Français</a>
+                                        
+                                            <a title="Deutsch" class="dropdown-item" href="https://de.download.it">Deutsch</a>
+                                        
+                                            <a title="Português" class="dropdown-item" href="https://br.download.it">Português</a>
+                                        
+                                            <a title="Nederlands" class="dropdown-item" href="https://nl.download.it">Nederlands</a>
+                                        
+                                            <a title="हिन्दी" class="dropdown-item" href="https://in.download.it">हिन्दी</a>
+                                        
+                                            <a title="Bahasa Indonesia" class="dropdown-item" href="https://id.download.it/windows">Bahasa Indonesia</a>
+                                        
+                                            <a title="العربية" class="dropdown-item" href="https://ar.download.it">العربية</a>
+                                        
+                                            <a title="ไทย" class="dropdown-item" href="https://th.download.it">ไทย</a>
+                                        
+                                            <a title="Türkçe" class="dropdown-item" href="https://tr.download.it">Türkçe</a>
+                                        
+                                            <a title="Polski" class="dropdown-item" href="https://pl.download.it">Polski</a>
+                                        
+                                            <a title="한국어" class="dropdown-item" href="https://kr.download.it">한국어</a>
+                                        
+                                            <a title="日本語" class="dropdown-item" href="https://jp.download.it">日本語</a>
+                                        
+                                            <a title="فارسی" class="dropdown-item" href="https://fa.download.it">فارسی</a>
+                                        
+                                            <a title="Русский" class="dropdown-item" href="https://ru.download.it">Русский</a>
+                                        
+                                            <a title="Kiswahili" class="dropdown-item" href="https://sw.download.it">Kiswahili</a>
+                                        
+                                            <a title="Melayu" class="dropdown-item" href="https://my.download.it/windows">Melayu</a>
+                                        
+                                            <a title="Tagalog" class="dropdown-item" href="https://ph.download.it/windows">Tagalog</a>
+                                        
+                                            <a title="Svenska" class="dropdown-item" href="https://se.download.it/windows">Svenska</a>
+                                        
+                                            <a title="Slovenščina" class="dropdown-item" href="https://si.download.it/windows">Slovenščina</a>
+                                        
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <div class="d-lg-none " id="head-search-menu-mobile">
+                    <div class="row justify-content-end">
+
+                        <div class="col-auto">
+                            <div class="head-topright-element" data-toggle="collapse" data-target="#searchCollapse">
+                                <img src="//static.download.it/dit/images/maglass-white.svg" width="15" height="15" alt="Download.it search icon" />
+                            </div>
+                        </div>
+
+                        <div class="col-auto">
+                            <div class="head-topright-element" data-toggle="collapse" data-target="#menuCollapse">
+                                <img src="//static.download.it/dit/images/burger-32.png"
+                                     srcset="//static.download.it/dit/images/burger-21.png 21w, //static.download.it/dit/images/burger-32.png 32w"
+                                     width="21" height="21" alt="Download.it burger menu" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="collapse" id="searchCollapse">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <form class="swarpper">
+                        <div class="form-glass-wrap mobile">
+                            <input type="text" class="form-control" id="search_input_mobile" placeholder="Search Software">
+                            <div class="glass-wrap" data-inputselector="#search_input_mobile">
+                                <img src="//static.download.it/dit/images/maglass-blue.svg" width="20" height="20" alt="Download.it search icon" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="collapse" id="menuCollapse">
+        <nav class="">
+            <div class="row mow-apps-nav">
+                <div class="col-12 m-platform-row">
+                    <p><a href="https://en.download.it/windows">Apps</a></p>
+                    
+                    
+                        <p><a href="https://en.download.it/windows/games">Games</a></p>
+                    
+                    
+                </div>
+            </div>
+            <div class="row m-platforms">
+                
+                
+                    
+                        <div class="col-12 m-platform-row">
+                            <p><a href="https://en.download.it/android">Android</a></p>
+                        </div>
+                    
+                        <div class="col-12 m-platform-row">
+                            <p><a href="https://en.download.it/mac">Mac</a></p>
+                        </div>
+                    
+                
+            </div>
+
+            <div class="row m-locales">
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Italiano"><a href="https://download.it">Italiano</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Español"><a href="https://es.download.it">Español</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Français"><a href="https://fr.download.it">Français</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Deutsch"><a href="https://de.download.it">Deutsch</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Português"><a href="https://br.download.it">Português</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Nederlands"><a href="https://nl.download.it">Nederlands</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="हिन्दी"><a href="https://in.download.it">हिन्दी</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Bahasa Indonesia"><a href="https://id.download.it/windows">Bahasa Indonesia</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="العربية"><a href="https://ar.download.it">العربية</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="ไทย"><a href="https://th.download.it">ไทย</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Türkçe"><a href="https://tr.download.it">Türkçe</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Polski"><a href="https://pl.download.it">Polski</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="한국어"><a href="https://kr.download.it">한국어</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="日本語"><a href="https://jp.download.it">日本語</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="فارسی"><a href="https://fa.download.it">فارسی</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Русский"><a href="https://ru.download.it">Русский</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Kiswahili"><a href="https://sw.download.it">Kiswahili</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Melayu"><a href="https://my.download.it/windows">Melayu</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Tagalog"><a href="https://ph.download.it/windows">Tagalog</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Svenska"><a href="https://se.download.it/windows">Svenska</a></p>
+                    </div>
+                
+                    <div class="col-12 m-locale-row">
+                        <p title="Slovenščina"><a href="https://si.download.it/windows">Slovenščina</a></p>
+                    </div>
+                
+            </div>
+        </nav>
+    </div>
+</header>
+
+<script>
+  
+
+    let paddingTop = null;
+	if (/Chrome\//.test(navigator.userAgent)) {
+		paddingTop = 23;
+    } else if (/(?:Safari|CriOS)\//.test(navigator.userAgent)) {
+		paddingTop = 26;
+    }
+
+	if (paddingTop !== null) {
+        let style = document.createElement('style');
+        style.innerHTML = '#ddLangDesktop {padding-top: ' + paddingTop + 'px;}';
+        document.getElementsByTagName('head')[0].appendChild(style);
+    }
+</script>
+
+
+
+
+
+    <div class="container bcnt">
+        
+            <div class="row adv-label text-right" style="color: #ccc">
+                <div class="col-12">Advertisement</div>
+            </div>
+        
+
+        <aside class="row asdwr">
+            <div class="col-12">
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3326569891674161"
+     crossorigin="anonymous"></script>
+<!-- DIT: Downloading -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3326569891674161"
+     data-ad-slot="5674925474"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+        </aside>
+    </div>
+
+
+<main id="main-container">
+    <div class="im-radont container afterb  present">
+        
+
+
+
+
+
+
+
+    <div class="row pt-1 pt-sm-3" id="pbcrumb-wrapper">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                
+                    <li class="breadcrumb-item">
+                        
+                            <a href="https://en.download.it/windows">
+                        
+
+                        Windows
+
+                        
+                            </a>
+                        
+                    </li>
+                
+                    <li class="breadcrumb-item">
+                        
+                            <a href="https://en.download.it/windows/video-software">
+                        
+
+                        Video software
+
+                        
+                            </a>
+                        
+                    </li>
+                
+                    <li class="breadcrumb-item">
+                        
+                            <a href="https://media-player-classic.en.download.it/">
+                        
+
+                        Media Player Classic
+
+                        
+                            </a>
+                        
+                    </li>
+                
+                    <li class="breadcrumb-item">
+                        
+                            <a href="https://media-player-classic.en.download.it/download">
+                        
+
+                        Download
+
+                        
+                            </a>
+                        
+                    </li>
+                
+                    <li class="breadcrumb-item " aria-current="page">
+                        
+
+                        Downloading
+
+                        
+                    </li>
+                
+            </ol>
+        </nav>
+    </div>
+
+
+        <article id="prg-main" class="p-lg-2">
+            <div class="row mb-sm-1">
+                <div class="col-auto">
+                    <img src="https://static.download.it/gen/media-player-classic-100x100.png" alt="Media Player Classic" height="50" width="50"/>
+                </div>
+                <div class="col">
+                    <h1>
+                        <a href="https://media-player-classic.en.download.it/">Media Player Classic</a>
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="im-subtitle">Enjoy seamless playback of various video and audio formats with this lightweight, customizable media player</h2>
+                </div>
+            </div>
+            
+            
+            
+                <div class="row mb-4 dit-pbar-wrap">
+                    
+                        
+                        
+                            <a rel="nofollow"
+          		data-chrdl=""
+          		data-ssm="d"
+          		data-altdl="false"
+          		data-program="media-player-classic"
+          		data-typ=""
+                 
+          		class="dllink mb-1 w-100 text-left align-left btn btn-lg btn-block hidden d-none download_link"
+          		
+          		
+          		
+          		href=""
+          		>
+                                <div class="row">
+                                    <div class="col text-center"><span style="text-align: center;width: 100%;" class=""></span></div>
+                                </div>
+                            </a>
+	
+                        
+                        
+                    
+
+                    
+
+
+
+
+
+
+
+
+    <div class="d-none col-12" id="dit-fallback">
+        <a href="" class="inline-link d-block text-center" data-google-interstitial="false"></a>
+    </div>
+
+                </div>
+
+            
+
+            
+
+            
+                <div class="row" style="margin-top: 16px">
+                    <div class="col-12">
+                        
+                            
+                            
+                                <h3>While your file is downloading, check out these other programs that may interest you</h3>
+                            
+                        
+                    </div>
+                </div>
+
+                <nav class="row mb-lg-3">
+                    
+                        
+
+
+
+
+
+<div class="col-12 home-tile hvr-glow">
+    <a href="https://capcut.en.download.it/">
+        <div class="row mb-3 mb-xl-0">
+            <div class="col-auto">
+                <img src="https://static.download.it/gen/capcut-100x100.png" alt="CapCut"  width="72" height="72">
+
+                
+                    <div class="mt-3 d-flex d-md-none text-right fill-grey star-wrapper-small">
+                                                <span class="vote fill-grey"
+                                                      data-platform='windows'
+                                                      data-average='6.7'
+                                                      data-locale='en-US'
+                                                      data-program='capcut'
+                                                      data-usingFont='true'
+                                                      data-resourcesPrefix=''></span>
+                            
+                    </div>
+                
+            </div>
+            <div class="col">
+                <h2 class="text-limit-1" title="CapCut">CapCut</h2>
+                
+                
+                    
+                    
+                        
+                            <div class="imldetails">
+                                <p>Program license: Free</p>
+                            </div>
+                        
+                    
+                
+
+
+
+
+                <p class="impdesc text-limit-2" title="Comprehensive video editing solution ideal for creating engaging social media content with ease">Comprehensive video editing solution ideal for creating engaging social media content with ease</p>
+            </div>
+            
+                <div class="col-auto d-none d-md-flex">
+                    <div class="text-right fill-grey star-wrapper ">
+                                            <span class="vote fill-grey"
+                                                  data-platform='windows'
+                                                  data-average='6.7'
+                                                  data-locale='en-US'
+                                                  data-program='capcut'
+                                                  data-usingFont='true'
+                                                  data-resourcesPrefix=''></span>
+                    </div>
+                </div>
+            
+        </div>
+    </a>
+</div>
+                    
+                        
+
+
+
+
+
+<div class="col-12 home-tile hvr-glow">
+    <a href="https://vlc-media-player.en.download.it/">
+        <div class="row mb-3 mb-xl-0">
+            <div class="col-auto">
+                <img src="https://static.download.it/gen/vlc-media-player-100x100.png" alt="VLC media player"  width="72" height="72">
+
+                
+                    <div class="mt-3 d-flex d-md-none text-right fill-grey star-wrapper-small">
+                                                <span class="vote fill-grey"
+                                                      data-platform='windows'
+                                                      data-average='7.4'
+                                                      data-locale='en-US'
+                                                      data-program='vlc-media-player'
+                                                      data-usingFont='true'
+                                                      data-resourcesPrefix=''></span>
+                            
+                    </div>
+                
+            </div>
+            <div class="col">
+                <h2 class="text-limit-1" title="VLC media player">VLC media player</h2>
+                
+                
+                    
+                    
+                        
+                            <div class="imldetails">
+                                <p>Program license: Free</p>
+                            </div>
+                        
+                    
+                
+
+
+
+
+                <p class="impdesc text-limit-2" title="Play various kinds of media from almost any source online">Play various kinds of media from almost any source online</p>
+            </div>
+            
+                <div class="col-auto d-none d-md-flex">
+                    <div class="text-right fill-grey star-wrapper ">
+                                            <span class="vote fill-grey"
+                                                  data-platform='windows'
+                                                  data-average='7.4'
+                                                  data-locale='en-US'
+                                                  data-program='vlc-media-player'
+                                                  data-usingFont='true'
+                                                  data-resourcesPrefix=''></span>
+                    </div>
+                </div>
+            
+        </div>
+    </a>
+</div>
+                    
+                        
+
+
+
+
+
+<div class="col-12 home-tile hvr-glow">
+    <a href="https://tik-tok.en.download.it/">
+        <div class="row mb-3 mb-xl-0">
+            <div class="col-auto">
+                <img src="https://static.download.it/gen/tik-tok-100x100.png" alt="TikTok"  width="72" height="72">
+
+                
+                    <div class="mt-3 d-flex d-md-none text-right fill-grey star-wrapper-small">
+                                                <span class="vote fill-grey"
+                                                      data-platform='windows'
+                                                      data-average='6.7'
+                                                      data-locale='en-US'
+                                                      data-program='tik-tok'
+                                                      data-usingFont='true'
+                                                      data-resourcesPrefix=''></span>
+                            
+                    </div>
+                
+            </div>
+            <div class="col">
+                <h2 class="text-limit-1" title="TikTok">TikTok</h2>
+                
+                
+                    
+                    
+                        
+                            <div class="imldetails">
+                                <p>Program license: Free</p>
+                            </div>
+                        
+                    
+                
+
+
+
+
+                <p class="impdesc text-limit-2" title="Share captivating short videos and interact with millions in the dynamic social media landscape">Share captivating short videos and interact with millions in the dynamic social media landscape</p>
+            </div>
+            
+                <div class="col-auto d-none d-md-flex">
+                    <div class="text-right fill-grey star-wrapper ">
+                                            <span class="vote fill-grey"
+                                                  data-platform='windows'
+                                                  data-average='6.7'
+                                                  data-locale='en-US'
+                                                  data-program='tik-tok'
+                                                  data-usingFont='true'
+                                                  data-resourcesPrefix=''></span>
+                    </div>
+                </div>
+            
+        </div>
+    </a>
+</div>
+                    
+                        
+
+
+
+
+
+<div class="col-12 home-tile hvr-glow">
+    <a href="https://format-factory.en.download.it/">
+        <div class="row mb-3 mb-xl-0">
+            <div class="col-auto">
+                <img src="https://static.download.it/gen/format-factory-100x100.png" alt="Format Factory"  width="72" height="72">
+
+                
+                    <div class="mt-3 d-flex d-md-none text-right fill-grey star-wrapper-small">
+                                                <span class="vote fill-grey"
+                                                      data-platform='windows'
+                                                      data-average='7.4'
+                                                      data-locale='en-US'
+                                                      data-program='format-factory'
+                                                      data-usingFont='true'
+                                                      data-resourcesPrefix=''></span>
+                            
+                    </div>
+                
+            </div>
+            <div class="col">
+                <h2 class="text-limit-1" title="Format Factory">Format Factory</h2>
+                
+                
+                    
+                    
+                        
+                            <div class="imldetails">
+                                <p>Program license: Free</p>
+                            </div>
+                        
+                    
+                
+
+
+
+
+                <p class="impdesc text-limit-2" title="Freeware for PC that can convert any type of media">Freeware for PC that can convert any type of media</p>
+            </div>
+            
+                <div class="col-auto d-none d-md-flex">
+                    <div class="text-right fill-grey star-wrapper ">
+                                            <span class="vote fill-grey"
+                                                  data-platform='windows'
+                                                  data-average='7.4'
+                                                  data-locale='en-US'
+                                                  data-program='format-factory'
+                                                  data-usingFont='true'
+                                                  data-resourcesPrefix=''></span>
+                    </div>
+                </div>
+            
+        </div>
+    </a>
+</div>
+                    
+                        
+
+
+
+
+
+<div class="col-12 home-tile hvr-glow">
+    <a href="https://instagram.en.download.it/">
+        <div class="row mb-3 mb-xl-0">
+            <div class="col-auto">
+                <img src="https://static.download.it/gen/instagram-100x100.png" alt="Instagram"  width="72" height="72">
+
+                
+                    <div class="mt-3 d-flex d-md-none text-right fill-grey star-wrapper-small">
+                                                <span class="vote fill-grey"
+                                                      data-platform='windows'
+                                                      data-average='6.8'
+                                                      data-locale='en-US'
+                                                      data-program='instagram'
+                                                      data-usingFont='true'
+                                                      data-resourcesPrefix=''></span>
+                            
+                    </div>
+                
+            </div>
+            <div class="col">
+                <h2 class="text-limit-1" title="Instagram">Instagram</h2>
+                
+                
+                    
+                    
+                        
+                            <div class="imldetails">
+                                <p>Program license: Free</p>
+                            </div>
+                        
+                    
+                
+
+
+
+
+                <p class="impdesc text-limit-2" title="Share photos and videos effortlessly while connecting with a vast global community">Share photos and videos effortlessly while connecting with a vast global community</p>
+            </div>
+            
+                <div class="col-auto d-none d-md-flex">
+                    <div class="text-right fill-grey star-wrapper ">
+                                            <span class="vote fill-grey"
+                                                  data-platform='windows'
+                                                  data-average='6.8'
+                                                  data-locale='en-US'
+                                                  data-program='instagram'
+                                                  data-usingFont='true'
+                                                  data-resourcesPrefix=''></span>
+                    </div>
+                </div>
+            
+        </div>
+    </a>
+</div>
+                    
+                        
+
+
+
+
+
+<div class="col-12 home-tile hvr-glow">
+    <a href="https://davinci-resolve.en.download.it/">
+        <div class="row mb-3 mb-xl-0">
+            <div class="col-auto">
+                <img src="https://static.download.it/gen/davinci-resolve-100x100.png" alt="DaVinci Resolve"  width="72" height="72">
+
+                
+                    <div class="mt-3 d-flex d-md-none text-right fill-grey star-wrapper-small">
+                                                <span class="vote fill-grey"
+                                                      data-platform='windows'
+                                                      data-average='7.9'
+                                                      data-locale='en-US'
+                                                      data-program='davinci-resolve'
+                                                      data-usingFont='true'
+                                                      data-resourcesPrefix=''></span>
+                            
+                    </div>
+                
+            </div>
+            <div class="col">
+                <h2 class="text-limit-1" title="DaVinci Resolve">DaVinci Resolve</h2>
+                
+                
+                    
+                    
+                        
+                            <div class="imldetails">
+                                <p>Program license: Free</p>
+                            </div>
+                        
+                    
+                
+
+
+
+
+                <p class="impdesc text-limit-2" title="Professional video editing solution designed to take your projects to the next level">Professional video editing solution designed to take your projects to the next level</p>
+            </div>
+            
+                <div class="col-auto d-none d-md-flex">
+                    <div class="text-right fill-grey star-wrapper ">
+                                            <span class="vote fill-grey"
+                                                  data-platform='windows'
+                                                  data-average='7.9'
+                                                  data-locale='en-US'
+                                                  data-program='davinci-resolve'
+                                                  data-usingFont='true'
+                                                  data-resourcesPrefix=''></span>
+                    </div>
+                </div>
+            
+        </div>
+    </a>
+</div>
+                    
+                </nav>
+            
+        </article>
+    </div>
+</main>
+
+
+
+
+
+
+
+
+
+
+<div class="modal fade" id="dlmDisclaimerModal" tabindex="-1" aria-labelledby="dlmDisclaimerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="dlmDisclaimerModalLabel">Download.it</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Install Manager</p>
+
+<p>The Install Manager downloads the app quickly and securely via Download.it´s high-speed server, so that a trustworthy origin is ensured.</p>
+<p>In addition to virus scans, our editors manually check each download for you.</p>
+
+<p>Advantages of the Install Manager:</p>
+
+<ul>
+<li>Malware protection informs you if your download has installed additional unwanted software.</li>
+<li>Discover additional software: Test new software that are waiting to be discovered in the downloader.</li>
+<li>With us you have the choice to accept or skip additional software installs.</li>
+</ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<footer class="container pt-3">
+    
+        <div class="row justify-content-center">
+            
+
+            
+        </div>
+    
+
+    <div class="row justify-content-center">
+        <nav class="col-auto dit-flinks-wrap">
+            <div class="float-left ml-3"><p><a rel="nofollow noopener" target="_blank" href="https://en.download.it/contact">Contact Us</a></p></div>
+            
+            <div class="float-left ml-3"><a href="https://www.iubenda.com/privacy-policy/61913038" rel="nofollow noopener" target="_blank">Privacy policy</a></div>
+            <div class="float-left ml-3"><a href="#" onclick="__tcfapi('displayConsentUi',2, function() {});" rel="nofollow noopener">Privacy settings</a></div>
+        </nav>
+    </div>
+
+    <div class="row justify-content-around">
+            <div class="col-auto"><p>Copyright &copy; 2025 download.it. All rights reserved.</p></div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var sc_project=9701494;
+	var sc_invisible=1;
+	var sc_security="9186b06c";
+	var sc_https=1;
+	var sc_remove_link=1;
+</script>
+<script type="text/javascript"
+		src="https://www.statcounter.com/counter/counter.js"
+		async></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/9701494/0/9186b06c/1/" referrerPolicy="no-referrer-when-downgrade"></div></noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'920cd5ecc81273c6',t:'MTc0MjA1MDM1Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

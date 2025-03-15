@@ -1,0 +1,45 @@
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env
+*.venv
+Pipfile.lock
+
+# Logs and Debug Files
+logs/
+*.log
+debug.log
+
+# OS-specific Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Config Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies (if using local installs)
+node_modules/
+dist/
+build/
+*.egg-info
+
+# Config Files (if storing sensitive info)
+config/default.json
+config/secrets.json
+
+# Executables and Generated Files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Coverage and Test Reports
+.coverage
+coverage.xml
+pytest_cache/
